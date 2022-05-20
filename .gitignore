@@ -1,4 +1,3 @@
-*
-!.gitignore
-!cp.py
-!data
+*__pycache__*
+.gitignore
+data
